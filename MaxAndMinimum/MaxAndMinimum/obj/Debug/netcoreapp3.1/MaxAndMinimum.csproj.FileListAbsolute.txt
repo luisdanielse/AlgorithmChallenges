@@ -1,0 +1,13 @@
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimum\MaxAndMinimum\bin\Debug\netcoreapp3.1\MaxAndMinimum.exe
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimum\MaxAndMinimum\bin\Debug\netcoreapp3.1\MaxAndMinimum.deps.json
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimum\MaxAndMinimum\bin\Debug\netcoreapp3.1\MaxAndMinimum.runtimeconfig.json
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimum\MaxAndMinimum\bin\Debug\netcoreapp3.1\MaxAndMinimum.runtimeconfig.dev.json
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimum\MaxAndMinimum\bin\Debug\netcoreapp3.1\MaxAndMinimum.dll
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimum\MaxAndMinimum\bin\Debug\netcoreapp3.1\MaxAndMinimum.pdb
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimum\MaxAndMinimum\obj\Debug\netcoreapp3.1\MaxAndMinimum.csproj.AssemblyReference.cache
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimum\MaxAndMinimum\obj\Debug\netcoreapp3.1\MaxAndMinimum.AssemblyInfoInputs.cache
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimum\MaxAndMinimum\obj\Debug\netcoreapp3.1\MaxAndMinimum.AssemblyInfo.cs
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimum\MaxAndMinimum\obj\Debug\netcoreapp3.1\MaxAndMinimum.csproj.CoreCompileInputs.cache
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimum\MaxAndMinimum\obj\Debug\netcoreapp3.1\MaxAndMinimum.dll
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimum\MaxAndMinimum\obj\Debug\netcoreapp3.1\MaxAndMinimum.pdb
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimum\MaxAndMinimum\obj\Debug\netcoreapp3.1\MaxAndMinimum.genruntimeconfig.cache

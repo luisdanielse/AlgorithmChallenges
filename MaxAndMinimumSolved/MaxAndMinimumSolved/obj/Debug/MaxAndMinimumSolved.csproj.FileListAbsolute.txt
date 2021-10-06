@@ -1,0 +1,7 @@
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimumSolved\MaxAndMinimumSolved\bin\Debug\MaxAndMinimumSolved.exe.config
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimumSolved\MaxAndMinimumSolved\bin\Debug\MaxAndMinimumSolved.exe
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimumSolved\MaxAndMinimumSolved\bin\Debug\MaxAndMinimumSolved.pdb
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimumSolved\MaxAndMinimumSolved\obj\Debug\MaxAndMinimumSolved.csproj.AssemblyReference.cache
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimumSolved\MaxAndMinimumSolved\obj\Debug\MaxAndMinimumSolved.csproj.CoreCompileInputs.cache
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimumSolved\MaxAndMinimumSolved\obj\Debug\MaxAndMinimumSolved.exe
+E:\visual-studiop\AlgorithmChallenges\MaxAndMinimumSolved\MaxAndMinimumSolved\obj\Debug\MaxAndMinimumSolved.pdb

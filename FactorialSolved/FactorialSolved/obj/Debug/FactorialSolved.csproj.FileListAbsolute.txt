@@ -1,0 +1,6 @@
+E:\visual-studiop\AlgorithmChallenges\FactorialSolved\FactorialSolved\bin\Debug\FactorialSolved.exe.config
+E:\visual-studiop\AlgorithmChallenges\FactorialSolved\FactorialSolved\bin\Debug\FactorialSolved.exe
+E:\visual-studiop\AlgorithmChallenges\FactorialSolved\FactorialSolved\bin\Debug\FactorialSolved.pdb
+E:\visual-studiop\AlgorithmChallenges\FactorialSolved\FactorialSolved\obj\Debug\FactorialSolved.csproj.CoreCompileInputs.cache
+E:\visual-studiop\AlgorithmChallenges\FactorialSolved\FactorialSolved\obj\Debug\FactorialSolved.exe
+E:\visual-studiop\AlgorithmChallenges\FactorialSolved\FactorialSolved\obj\Debug\FactorialSolved.pdb

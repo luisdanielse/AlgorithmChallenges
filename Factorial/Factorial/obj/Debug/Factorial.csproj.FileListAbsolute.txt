@@ -1,0 +1,7 @@
+E:\visual-studiop\AlgorithmChallenges\Factorial\Factorial\bin\Debug\Factorial.exe.config
+E:\visual-studiop\AlgorithmChallenges\Factorial\Factorial\bin\Debug\Factorial.exe
+E:\visual-studiop\AlgorithmChallenges\Factorial\Factorial\bin\Debug\Factorial.pdb
+E:\visual-studiop\AlgorithmChallenges\Factorial\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+E:\visual-studiop\AlgorithmChallenges\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+E:\visual-studiop\AlgorithmChallenges\Factorial\Factorial\obj\Debug\Factorial.exe
+E:\visual-studiop\AlgorithmChallenges\Factorial\Factorial\obj\Debug\Factorial.pdb
