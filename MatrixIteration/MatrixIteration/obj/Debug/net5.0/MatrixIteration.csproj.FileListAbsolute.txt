@@ -1,0 +1,16 @@
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\bin\Debug\net5.0\MatrixIteration.exe
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\bin\Debug\net5.0\MatrixIteration.deps.json
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\bin\Debug\net5.0\MatrixIteration.runtimeconfig.json
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\bin\Debug\net5.0\MatrixIteration.runtimeconfig.dev.json
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\bin\Debug\net5.0\MatrixIteration.dll
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\bin\Debug\net5.0\ref\MatrixIteration.dll
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\bin\Debug\net5.0\MatrixIteration.pdb
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\obj\Debug\net5.0\MatrixIteration.csproj.AssemblyReference.cache
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\obj\Debug\net5.0\MatrixIteration.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\obj\Debug\net5.0\MatrixIteration.AssemblyInfoInputs.cache
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\obj\Debug\net5.0\MatrixIteration.AssemblyInfo.cs
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\obj\Debug\net5.0\MatrixIteration.csproj.CoreCompileInputs.cache
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\obj\Debug\net5.0\MatrixIteration.dll
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\obj\Debug\net5.0\ref\MatrixIteration.dll
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\obj\Debug\net5.0\MatrixIteration.pdb
+E:\visual-studiop\AlgorithmChallenges\MatrixIteration\MatrixIteration\obj\Debug\net5.0\MatrixIteration.genruntimeconfig.cache

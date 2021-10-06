@@ -1,0 +1,16 @@
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\bin\Debug\net5.0\MatrixIterationSolved.exe
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\bin\Debug\net5.0\MatrixIterationSolved.deps.json
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\bin\Debug\net5.0\MatrixIterationSolved.runtimeconfig.json
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\bin\Debug\net5.0\MatrixIterationSolved.runtimeconfig.dev.json
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\bin\Debug\net5.0\MatrixIterationSolved.dll
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\bin\Debug\net5.0\ref\MatrixIterationSolved.dll
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\bin\Debug\net5.0\MatrixIterationSolved.pdb
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\obj\Debug\net5.0\MatrixIterationSolved.csproj.AssemblyReference.cache
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\obj\Debug\net5.0\MatrixIterationSolved.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\obj\Debug\net5.0\MatrixIterationSolved.AssemblyInfoInputs.cache
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\obj\Debug\net5.0\MatrixIterationSolved.AssemblyInfo.cs
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\obj\Debug\net5.0\MatrixIterationSolved.csproj.CoreCompileInputs.cache
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\obj\Debug\net5.0\MatrixIterationSolved.dll
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\obj\Debug\net5.0\ref\MatrixIterationSolved.dll
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\obj\Debug\net5.0\MatrixIterationSolved.pdb
+E:\visual-studiop\AlgorithmChallenges\MatrixIterationSolved\MatrixIterationSolved\obj\Debug\net5.0\MatrixIterationSolved.genruntimeconfig.cache
