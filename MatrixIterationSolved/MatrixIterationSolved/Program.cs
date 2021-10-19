@@ -29,7 +29,8 @@ namespace MatrixIterationSolved
         static void matrixIteration(int[,] myMatrix)
         {
             int rowCounter;
-            int colCounter;
+            int colCounter
+                ;
             /*
              * Hint: Start from here. Use a for loop for the ROWS and ANOTHER for loop for the COLS 
              * (A for inside a for)

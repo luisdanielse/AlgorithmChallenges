@@ -1,0 +1,16 @@
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\bin\Debug\net5.0\MaxInARowButMinInCol.exe
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\bin\Debug\net5.0\MaxInARowButMinInCol.deps.json
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\bin\Debug\net5.0\MaxInARowButMinInCol.runtimeconfig.json
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\bin\Debug\net5.0\MaxInARowButMinInCol.runtimeconfig.dev.json
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\bin\Debug\net5.0\MaxInARowButMinInCol.dll
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\bin\Debug\net5.0\ref\MaxInARowButMinInCol.dll
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\bin\Debug\net5.0\MaxInARowButMinInCol.pdb
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\obj\Debug\net5.0\MaxInARowButMinInCol.csproj.AssemblyReference.cache
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\obj\Debug\net5.0\MaxInARowButMinInCol.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\obj\Debug\net5.0\MaxInARowButMinInCol.AssemblyInfoInputs.cache
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\obj\Debug\net5.0\MaxInARowButMinInCol.AssemblyInfo.cs
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\obj\Debug\net5.0\MaxInARowButMinInCol.csproj.CoreCompileInputs.cache
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\obj\Debug\net5.0\MaxInARowButMinInCol.dll
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\obj\Debug\net5.0\ref\MaxInARowButMinInCol.dll
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\obj\Debug\net5.0\MaxInARowButMinInCol.pdb
+E:\visual-studiop\AlgorithmChallenges\MaxInARowButMinInCol\MaxInARowButMinInCol\obj\Debug\net5.0\MaxInARowButMinInCol.genruntimeconfig.cache
