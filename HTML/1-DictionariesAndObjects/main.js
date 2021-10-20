@@ -8,10 +8,10 @@ from the array and will be printed in the console
 For example: myArray[1] <--This is equal to 56
 */
 
-
-var number56 = 4;
 // CODE HERE:
-console.log("I catch the value: " + number56);
+var number8 = myArray[4]; 
+console.log("I catch the value: " + number8);
+
 
 
 /* 
@@ -22,9 +22,9 @@ from the matrix and will be printed in the console
 For example: matrix[0][2] <--This is equal to 6
 */
 var matrix = [[4,5,6,7],[9,15,16,6],[9,15,20,54]];
-var number16 = 4;
+var number16 = matrix[1][2]; 
 // CODE HERE:
-console.log("I catch the value: " + number56);
+console.log("I catch the value: " + number16);
 
 
 /* 
@@ -36,7 +36,7 @@ Write the code that will get the value of the age
 Example: thename = human["name"] <---This will give you "John Doe"
 */
 var human = {"name": "John Doe","Age": 33, "Country": "USA"};
-var tempAge = 4;
+var tempAge = human["Age"]; 
 // CODE HERE:
 console.log("I catch the value: " + tempAge);
 
@@ -66,7 +66,7 @@ var team3 = {"name": "Dodgers","City": "Los Angeles", "Founded": 1883};
 var team4 = {"name": "Braves","City": "Atlanta", "Founded": 1871};
 var arrayOfTeams = [team1,team2,team3,team4];
 // CODE HERE:
-var stringToPrint= "The team X Xx XX";
+var stringToPrint= "The " + arrayOfTeams[3]["name"] + " team were founded in " + arrayOfTeams[3]["Founded"] + ". This team is from " + arrayOfTeams[3]["City"] + " city."
 console.log(stringToPrint);
 
 /*
@@ -98,3 +98,11 @@ var team6 = {"name": "Packers","City": "Green Bay", "Founded": 1919};
 var array11 = [0,1,2,4,6,7];
 var arrayOfTeams2 = [team5, team6];
 var macroObject = {"arrayOfTeams" : arrayOfTeams2, "otherArray": array11};
+
+var teamArray = macroObject["arrayOfTeams"]; 
+var theTeam = teamArray[1]; 
+var teamName = theTeam["name"]; 
+var teamFounded = theTeam["Founded"]; 
+
+var stringToPrint = "the team " + teamName + " were founded in " + teamFounded
+console.log(stringToPrint); 
